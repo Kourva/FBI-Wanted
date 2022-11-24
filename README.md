@@ -7,6 +7,10 @@ Telegram bot to check the wanted people in FBI wanted list using FBI's official 
 + You can change the commands or whatever you want
 
 # Install
++ Install requirements
+```bash
+pip install requests pytelegrambotapi
+```
 + Clone repository
 ```bash
 git clone https://github.com/MemeSec/FBI-Wanted && cd FBI-Wanted && chmod +x main.py
