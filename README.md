@@ -1,4 +1,6 @@
 # FBI-Wanted
+<img align="right" src="https://www.clipartmax.com/png/full/273-2739296_fbi-shield-logo-vector-department-of-justice-fbi.png" alt="Fbi Seal, HD Png Download@kindpng.com">
+
 Telegram bot to check the wanted people in FBI wanted list using FBI's official API
 > This bot uses official FBI's API, fore more information check [FBI API](https://api.fbi.gov/docs)
 
